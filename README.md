@@ -69,9 +69,9 @@ To prevent the slow I2C OLED screen from crashing the motors, the code bypasses 
 
 ## 📸 Project Gallery
 
-![Robot Front View](LFR/robot-front.jpeg)
+![Robot Front View](LFR/robot-front.jpg.jpeg)
 
-![Robot in Action](LFR/robot-action.jpeg)
+![Robot in Action](LFR/robot-action.jpg.jpeg)
 
 ## 📈 Future Improvements
 * Implementation of a PID Auto-Tuning sequence.
