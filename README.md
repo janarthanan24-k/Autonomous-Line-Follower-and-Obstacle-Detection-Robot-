@@ -67,8 +67,11 @@ To prevent the slow I2C OLED screen from crashing the motors, the code bypasses 
 5. Upload the code to your Arduino Nano.
 6. Power on the robot. You will hear a 150ms confirmation beep, followed by a 3-second visual countdown on the built-in LED before the motors engage.
 
-### Project Images
-![Rover Image 1]
+## 📸 Project Gallery
+
+![Robot Chassis Setup](LFR/image1.jpg)
+
+![OLED Face in Action](LFR/image2.png)
 
 ## 📈 Future Improvements
 * Implementation of a PID Auto-Tuning sequence.
