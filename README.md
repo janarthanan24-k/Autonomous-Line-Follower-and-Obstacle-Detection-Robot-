@@ -78,5 +78,5 @@ To prevent the slow I2C OLED screen from crashing the motors, the code bypasses 
 * Adding an avoidance maneuver (Box maneuver) to drive around obstacles and re-acquire the line.
 * Upgrading to a 5-sensor IR array for 90-degree intersection handling.
 
-  ## Author
+## 👨‍💻Author
   K. Janarthanan
